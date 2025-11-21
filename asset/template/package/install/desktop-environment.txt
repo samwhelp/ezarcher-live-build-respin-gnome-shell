@@ -1,0 +1,26 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/GNOME
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Gnome Shell
+##
+
+gnome
+#gnome-circle
+#gnome-extra
+
+
+gnome-tweaks
