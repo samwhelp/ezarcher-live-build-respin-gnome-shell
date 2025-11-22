@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="ezarch-gnome"
+iso_name="ezarch-gnome-shell"
 iso_label="EZARCH-GNOME_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%y%m%d)"
 iso_publisher="Ezarcher Linux <https://sourceforge.net/projects/ezarch/>"
 iso_application="Ezarcher DVD"
